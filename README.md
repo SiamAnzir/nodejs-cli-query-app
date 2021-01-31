@@ -1,12 +1,12 @@
 # Command Line Interface (CLI) Query App
 
-* [Description](#Description:)
+* [Description](#Description)
 * [Main Packages & Require Modules](#main-packages--require-modules)
-* [Installation](#Installation:)
-* [Usage](#Usage:)
-* [Contributing](#Contributing:)
-* [Credits](#Credits:)
-* [License](#License:)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Credits](#Credits)
+* [License](#License)
 
 ## Description: 
 
