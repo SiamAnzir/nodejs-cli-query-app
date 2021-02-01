@@ -8,7 +8,8 @@ let arrayValues = [];
 for (let i = 1; i < jsonObj.data.length; i++) {
     arrayValues[i] = jsonObj.data[i];
 }
-//console.log(arrayValues);
+
+/** Taking common key values for each array data */
 const keyValues = [
     'key',
     'id',

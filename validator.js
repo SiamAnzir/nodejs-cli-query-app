@@ -17,13 +17,11 @@ const parameterValidator = (queryString) => {
 }
 
 const numberRangeValidator = (range) => {
+    /** Only take the input of integer or decimal number */
     let numbers = /^\d+$/;
     let decimal = /^[+]?[0-9]+\.[0-9]+$/;
-    if (range.match(numbers) || range.match(decimal)) {
+    if (range.match(numbers) || range.match(decimal))
         return true;
-    } else {
-        return false;
-    }
 }
 
 /** Exports two functions into main.js */
